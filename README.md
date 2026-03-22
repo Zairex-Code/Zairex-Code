@@ -25,20 +25,20 @@ With over 2 years of experience building dynamic and scalable web applications. 
 
 ---
 
-### 🚀 Featured Projects
+#### 🚀 Featured Projects
 
-* 🎮 **[PlayWish]** - *https://github.com/Zairex-Code/PlayWish*
+* 🎮 **[PlayWish](https://github.com/Zairex-Code/PlayWish)**
   * An interactive platform for exploring, managing, and creating wishlists from extensive video game catalogs.
-* 💼 **[WEB FORUM CODE MASTER]** - *https://github.com/Zairex-Code/Web-laravel-Tailwind-Node.js*
-  * Programming Forum" project! This is a Q&A platform built with Laravel 12, Tailwind CSS v4, and Blade Components, enriched with Laravel Livewire & Volt for reactive interfaces.
-* 🎮 **[PlexBook]** - *http://github.com/Zairex-Code/PlexBook-Laravel-bootstrap*
+* 💼 **[WEB FORUM CODE MASTER](https://github.com/Zairex-Code/Web-laravel-Tailwind-Node.js)**
+  * Programming Forum project! This is a Q&A platform built with Laravel 12, Tailwind CSS v4, and Blade Components, enriched with Laravel Livewire & Volt for reactive interfaces.
+* 📚 **[PlexBook](https://github.com/Zairex-Code/PlexBook-Laravel-bootstrap)**
   * PlexBook, a robust Library Management System built with Laravel. This application streamlines library operations, allowing administrators to manage books, authors, categories, and loans efficiently.
-* 🚗 **[Maybach-Concessionary]** - *https://github.com/Zairex-Code/Maybach-Concessionary.js*
+* 🚗 **[Maybach-Concessionary](https://github.com/Zairex-Code/Maybach-Concessionary.js)**
   * Maybach Concessionary is a web management system developed entirely in Vanilla JavaScript and styled with Tailwind CSS.
 
 ---
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dylan-florez)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dylanyesidflorez@gmail.com)# Zairex-Code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dylan-florez)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylanyesidflorez@gmail.com)
