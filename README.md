@@ -6,6 +6,7 @@
 **Full Stack Web Developer 💻 | turning lines of code into high-impact digital experiences.**
 
 With over 2 years of experience building dynamic and scalable web applications. I specialize in creating efficient solutions from start to finish, transforming complex requirements into high-performance, real-world digital products.
+ 
 
 ---
 
