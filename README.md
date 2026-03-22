@@ -1,5 +1,7 @@
 # Hi there! I'm Dylan 👋
 
+![WhatsApp Image 2026-03-22 at 9 23 30 AM](https://github.com/user-attachments/assets/ab3fa3a9-810d-4042-8617-fdbe323f316f)
+
 **Full Stack Web Developer 💻 | turning lines of code into high-impact digital experiences.**
 
 With over 2 years of experience building dynamic and scalable web applications. I specialize in creating efficient solutions from start to finish, transforming complex requirements into high-performance, real-world digital products.
