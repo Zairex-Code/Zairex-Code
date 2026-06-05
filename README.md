@@ -1,6 +1,7 @@
 # Hi there! I'm Dylan 👋
 
-![WhatsApp Image 2026-03-22 at 9 26 49 AM](https://github.com/user-attachments/assets/072ce4f8-c2a9-45b3-bced-4c206ffa8737)
+<img width="1280" height="543" alt="WhatsApp Image 2026-06-04 at 8 11 52 PM" src="https://github.com/user-attachments/assets/0f66ba50-679f-4dd9-a548-68c7e2385466" />
+
 
 
 **Full Stack Web Developer 💻 | turning lines of code into high-impact digital experiences.**
