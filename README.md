@@ -10,70 +10,59 @@ With over 2 years of experience building dynamic and scalable web applications. 
 
 ---
 
-<table width="100%">
-  <tr>
-    <td bgcolor="#06121c" style="padding:18px; border:1px solid #10324a; border-radius:16px;">
-      <div>🛠️ Tech Stack</div>
-      <br />
-      <div style="color:#67e8f9;">Frontend & UI</div>
-      <br />
-      <img src="https://img.shields.io/badge/HTML5-ff6b35?style=flat-square&logo=html5&logoColor=111111" alt="HTML5" width="170" height="40" />
-      <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" width="185" height="40" />
-      <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" width="180" height="40" />
-      <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=111111" alt="React" width="150" height="40" />
-      <img src="https://img.shields.io/badge/Tailwind%20CSS-06b6d4?style=flat-square&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" width="205" height="40" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952b3?style=flat-square&logo=bootstrap&logoColor=ffffff" alt="Bootstrap" width="180" height="40" />
-      <br /><br />
+### 🛠️ Tech Stack
 
-      <div style="color:#f9a8d4;">Backend & APIs</div>
-      <br />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=111111" alt="Node.js" width="170" height="40" />
-      <img src="https://img.shields.io/badge/Express.js-111111?style=flat-square&logo=express&logoColor=ffffff" alt="Express.js" width="180" height="40" />
-      <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat-square&logo=nestjs&logoColor=ffffff" alt="NestJS" width="170" height="40" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6db33f?style=flat-square&logo=springboot&logoColor=111111" alt="Spring Boot" width="205" height="40" />
-      <img src="https://img.shields.io/badge/PHP-777bb4?style=flat-square&logo=php&logoColor=ffffff" alt="PHP" width="135" height="40" />
-      <img src="https://img.shields.io/badge/Laravel-ff2d20?style=flat-square&logo=laravel&logoColor=ffffff" alt="Laravel" width="165" height="40" />
-      <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=ffffff" alt="Python" width="155" height="40" />
-      <img src="https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=111111" alt="Java" width="135" height="40" />
-      <br /><br />
+<div style="font-weight: 300;">
 
-      <div style="color:#86efac;">Databases & BaaS</div>
-      <br />
-      <img src="https://img.shields.io/badge/MySQL-0b5fa5?style=flat-square&logo=mysql&logoColor=ffffff" alt="MySQL" width="145" height="40" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" width="185" height="40" />
-      <img src="https://img.shields.io/badge/Supabase-3ecf8e?style=flat-square&logo=supabase&logoColor=111111" alt="Supabase" width="170" height="40" />
-      <img src="https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=firebase&logoColor=111111" alt="Firebase" width="165" height="40" />
-      <br /><br />
+#### Frontend & UI
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-      <div style="color:#fde68a;">AI, DevOps & Cloud</div>
-      <br />
-      <img src="https://img.shields.io/badge/n8n-ea4b71?style=flat-square&logo=n8n&logoColor=ffffff" alt="n8n" width="125" height="40" />
-      <img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square" alt="REST APIs" width="160" height="40" />
-      <img src="https://img.shields.io/badge/v0-ffffff?style=flat-square&logo=vercel&logoColor=111111" alt="v0" width="95" height="40" />
-      <img src="https://img.shields.io/badge/Lovable-f4f4f5?style=flat-square" alt="Lovable" width="140" height="40" />
-      <img src="https://img.shields.io/badge/Claude%20Code-d4b3ff?style=flat-square" alt="Claude Code" width="165" height="40" />
-      <img src="https://img.shields.io/badge/Google%20Gemini-4285f4?style=flat-square&logo=google&logoColor=ffffff" alt="Google Gemini" width="210" height="40" />
-      <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=111111" alt="Git" width="110" height="40" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" width="135" height="40" />
-      <img src="https://img.shields.io/badge/GitLab-fc6d26?style=flat-square&logo=gitlab&logoColor=ffffff" alt="GitLab" width="135" height="40" />
-      <img src="https://img.shields.io/badge/Linux-facc15?style=flat-square&logo=linux&logoColor=111111" alt="Linux" width="130" height="40" />
-      <img src="https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=ffffff" alt="Ubuntu" width="145" height="40" />
-      <img src="https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" width="150" height="40" />
-      <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazon-aws&logoColor=111111" alt="AWS" width="110" height="40" />
-      <img src="https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=ffffff" alt="Azure" width="135" height="40" />
-      <img src="https://img.shields.io/badge/Figma-f24e1e?style=flat-square&logo=figma&logoColor=ffffff" alt="Figma" width="125" height="40" />
-      <br /><br />
+#### Backend & APIs
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-      <div style="color:#bfdbfe;">Soft Skills</div>
-      <br />
-      <img src="https://img.shields.io/badge/Business%20Vision-111111?style=flat-square" alt="Business Vision" width="180" height="40" />
-      <img src="https://img.shields.io/badge/Technical%20Team%20Leadership-111111?style=flat-square" alt="Technical Team Leadership" width="300" height="40" />
-      <img src="https://img.shields.io/badge/Effective%20Communication-111111?style=flat-square" alt="Effective Communication" width="255" height="40" />
-      <img src="https://img.shields.io/badge/Problem%20Solving-111111?style=flat-square" alt="Problem Solving" width="200" height="40" />
-      <img src="https://img.shields.io/badge/Continuous%20Learning-111111?style=flat-square" alt="Continuous Learning" width="220" height="40" />
-    </td>
-  </tr>
-</table>
+#### Databases & BaaS
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black) 
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+#### AI, DevOps & Cloud
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) 
+![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![v0](https://img.shields.io/badge/v0-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+![Lovable](https://img.shields.io/badge/Lovable-FF5F6D?style=for-the-badge) 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D0B3FF?style=for-the-badge) 
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+#### Soft Skills
+![Business Vision](https://img.shields.io/badge/Business_Vision-00D1B2?style=for-the-badge&logo=target&logoColor=white) 
+![Technical Team Leadership](https://img.shields.io/badge/Technical_Team_Leadership-FF4500?style=for-the-badge&logo=teamspeak&logoColor=white) 
+![Effective Communication](https://img.shields.io/badge/Effective_Communication-00B2FF?style=for-the-badge&logo=messenger&logoColor=white) 
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-FFD166?style=for-the-badge&logo=answer&logoColor=black) 
+![Continuous Learning](https://img.shields.io/badge/Continuous_Learning-7EE081?style=for-the-badge&logo=bookstack&logoColor=black)
+
+</div>
 
 ---
 
