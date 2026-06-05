@@ -10,55 +10,67 @@ With over 2 years of experience building dynamic and scalable web applications. 
 
 ---
 
-### 🛠️ Tech Stack
+<div style="margin:0 0 12px 0; color:#67e8f9; font-size:24px; font-weight:400;">🛠️ Tech Stack</div>
 
-**Frontend & UI**  
-<img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-<img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap" />
+<div style="font-weight:400; line-height:1.5;">
+  <div style="margin:0 0 18px 0; padding:16px 18px; border-radius:18px; border:1px solid rgba(34,211,238,0.35); background: linear-gradient(135deg, rgba(8,47,73,0.95), rgba(2,6,23,0.98));">
+    <div style="margin:0 0 12px 0; color:#67e8f9; font-size:20px; font-weight:400;">Frontend & UI</div>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#ff6b35; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">HTML5</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#f7df1e; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">JavaScript</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#3178c6; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">TypeScript</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#61dafb; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">React</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#06b6d4; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Tailwind CSS</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#7952b3; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Bootstrap</span>
+  </div>
 
-**Backend & APIs**  
-<img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=339933" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-111111?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express.js" />
-<img src="https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-<img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/PHP-111111?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP" />
-<img src="https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel" />
-<img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
-<img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <div style="margin:0 0 18px 0; padding:16px 18px; border-radius:18px; border:1px solid rgba(244,114,182,0.35); background: linear-gradient(135deg, rgba(67,20,102,0.95), rgba(2,6,23,0.98));">
+    <div style="margin:0 0 12px 0; color:#f9a8d4; font-size:20px; font-weight:400;">Backend & APIs</div>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#339933; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Node.js</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#111111; color:#f3f4f6; font-size:16px; font-weight:400; letter-spacing:0.08em; border:1px solid rgba(255,255,255,0.14);">Express.js</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#e0234e; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">NestJS</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#6db33f; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Spring Boot</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#777bb4; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">PHP</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#ff2d20; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Laravel</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#3776ab; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Python</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#ed8b00; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Java</span>
+  </div>
 
-**Databases & BaaS**  
-<img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-<img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Supabase-111111?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
-<img src="https://img.shields.io/badge/Firebase-111111?style=for-the-badge&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+  <div style="margin:0 0 18px 0; padding:16px 18px; border-radius:18px; border:1px solid rgba(74,222,128,0.35); background: linear-gradient(135deg, rgba(20,83,45,0.95), rgba(2,6,23,0.98));">
+    <div style="margin:0 0 12px 0; color:#86efac; font-size:20px; font-weight:400;">Databases & BaaS</div>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#0b5fa5; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">MySQL</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#4169e1; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">PostgreSQL</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#3ecf8e; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Supabase</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#ffca28; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Firebase</span>
+  </div>
 
-**AI, DevOps & Cloud**  
-<img src="https://img.shields.io/badge/n8n-111111?style=for-the-badge&logo=n8n&logoColor=EA4B71" alt="n8n" />
-<img src="https://img.shields.io/badge/REST_APIs-111111?style=for-the-badge" alt="REST APIs" />
-<img src="https://img.shields.io/badge/v0-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="v0" />
-<img src="https://img.shields.io/badge/Lovable-111111?style=for-the-badge" alt="Lovable" />
-<img src="https://img.shields.io/badge/Claude_Code-111111?style=for-the-badge" alt="Claude Code" />
-<img src="https://img.shields.io/badge/Google_Gemini-111111?style=for-the-badge&logo=google&logoColor=4285F4" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=FC6D26" alt="GitLab" />
-<img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-<img src="https://img.shields.io/badge/Ubuntu-111111?style=for-the-badge&logo=ubuntu&logoColor=E95420" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" alt="Azure" />
-<img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
+  <div style="margin:0 0 18px 0; padding:16px 18px; border-radius:18px; border:1px solid rgba(251,191,36,0.35); background: linear-gradient(135deg, rgba(120,53,15,0.95), rgba(2,6,23,0.98));">
+    <div style="margin:0 0 12px 0; color:#fde68a; font-size:20px; font-weight:400;">AI, DevOps & Cloud</div>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#ea4b71; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">n8n</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#111111; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em; border:1px solid rgba(255,255,255,0.14);">REST APIs</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#ffffff; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">v0</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#f4f4f5; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Lovable</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#d4b3ff; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Claude Code</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#4285f4; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Google Gemini</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#f05032; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Git</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#181717; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">GitHub</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#fc6d26; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">GitLab</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#facc15; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">Linux</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#e95420; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Ubuntu</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#2496ed; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Docker</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#ff9900; color:#111111; font-size:16px; font-weight:400; letter-spacing:0.08em;">AWS</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#0078d4; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Azure</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#f24e1e; color:#ffffff; font-size:16px; font-weight:400; letter-spacing:0.08em;">Figma</span>
+  </div>
 
-**Soft Skills**  
-<img src="https://img.shields.io/badge/Business_Vision-111111?style=for-the-badge" alt="Business Vision" />
-<img src="https://img.shields.io/badge/Technical_Team_Leadership-111111?style=for-the-badge" alt="Technical Team Leadership" />
-<img src="https://img.shields.io/badge/Effective_Communication-111111?style=for-the-badge" alt="Effective Communication" />
-<img src="https://img.shields.io/badge/Problem_Solving-111111?style=for-the-badge" alt="Problem Solving" />
-<img src="https://img.shields.io/badge/Continuous_Learning-111111?style=for-the-badge" alt="Continuous Learning" />
+  <div style="margin:0; padding:16px 18px; border-radius:18px; border:1px solid rgba(96,165,250,0.35); background: linear-gradient(135deg, rgba(30,58,138,0.95), rgba(2,6,23,0.98));">
+    <div style="margin:0 0 12px 0; color:#bfdbfe; font-size:20px; font-weight:400;">Soft Skills</div>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#0f172a; color:#f8fafc; font-size:16px; font-weight:400; letter-spacing:0.08em; border:1px solid rgba(148,163,184,0.35);">Business Vision</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#0f172a; color:#f8fafc; font-size:16px; font-weight:400; letter-spacing:0.08em; border:1px solid rgba(148,163,184,0.35);">Technical Team Leadership</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#0f172a; color:#f8fafc; font-size:16px; font-weight:400; letter-spacing:0.08em; border:1px solid rgba(148,163,184,0.35);">Effective Communication</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#0f172a; color:#f8fafc; font-size:16px; font-weight:400; letter-spacing:0.08em; border:1px solid rgba(148,163,184,0.35);">Problem Solving</span>
+    <span style="display:inline-block; margin:6px 8px 0 0; padding:10px 16px; border-radius:999px; background:#0f172a; color:#f8fafc; font-size:16px; font-weight:400; letter-spacing:0.08em; border:1px solid rgba(148,163,184,0.35);">Continuous Learning</span>
+  </div>
+</div>
 
 ---
 
