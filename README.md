@@ -70,15 +70,20 @@ With over 3 years of experience building dynamic and scalable web applications. 
 #### 🚀 Featured Projects
 
 * 🎨 **[Oasis Hospitality - Enterprise Frontend](https://github.com/Zairex-Code/oasis-hotel-frontend)**
-  * A highly scalable hotel management dashboard built with Next.js and Tailwind CSS v4, featuring a custom Glassmorphism UI, edge security, and a real-time booking engine.
-* ⚙️ **[Oasis Hotels API - Enterprise Backend](https://github.com/Zairex-Code/oasis-hotels-backend)**
-  * A robust RESTful API built with Java 21 and Spring Boot. Features JWT-based RBAC, dynamic search engines with JPA Criteria API, and automated background Cron Jobs.
+  * A highly scalable hotel management dashboard featuring a custom Glassmorphism UI, edge security, and a real-time booking engine.
+  * **Stack:** Next.js, React 19, Tailwind CSS v4, TypeScript, Axios
+* ⚙️ **[Oasis Hotels API - Enterprise Backend](https://github.com/Zairex-Code/oasis-hotels-api)**
+  * A robust RESTful API featuring JWT-based RBAC, dynamic search engines with JPA Criteria API, and automated background Cron Jobs.
+  * **Stack:** Java 17, Spring Boot, MySQL, Spring Security, JWT, Docker
 * 🎮 **[PlayWish](https://github.com/Zairex-Code/PlayWish)**
-  * An interactive platform for exploring, managing, and creating wishlists from extensive video game catalogs.
+  * An interactive platform for exploring extensive video game catalogs, with a strong focus on delivering a premium UI/UX and seamless agile interactions.
+  * **Stack:** Vanilla JS, Vite, Tailwind CSS, RAWG API
 * 💼 **[WEB FORUM CODE MASTER](https://github.com/Zairex-Code/Web-laravel-Tailwind-Node.js)**
-  * Programming Forum project! This is a Q&A platform built with Laravel 12, Tailwind CSS v4, and Blade Components, enriched with Laravel Livewire & Volt for reactive interfaces.
+  * A reactive programming Q&A platform featuring modern component-based architecture for dynamic and real-time user interfaces.
+  * **Stack:** PHP 8+, Laravel 12, Livewire, Volt, Tailwind CSS v4, MySQL
 * 📚 **[PlexBook](https://github.com/Zairex-Code/PlexBook-Laravel-bootstrap)**
-  * PlexBook, a robust Library Management System built with Laravel. This application streamlines library operations, allowing administrators to manage books, authors, categories, and loans efficiently.
+  * A robust Library Management System that streamlines operations, allowing administrators to efficiently manage books, authors, categories, and loans.
+  * **Stack:** Laravel 7.x, Bootstrap 5, Blade Templates, jQuery, MySQL
 
 ---
 
