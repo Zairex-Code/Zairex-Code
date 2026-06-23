@@ -69,14 +69,16 @@ With over 3 years of experience building dynamic and scalable web applications. 
 
 #### 🚀 Featured Projects
 
+* 🎨 **[Oasis Hospitality - Enterprise Frontend](https://github.com/Zairex-Code/oasis-hotel-frontend)**
+  * A highly scalable hotel management dashboard built with Next.js and Tailwind CSS v4, featuring a custom Glassmorphism UI, edge security, and a real-time booking engine.
+* ⚙️ **[Oasis Hotels API - Enterprise Backend](https://github.com/Zairex-Code/oasis-hotels-backend)**
+  * A robust RESTful API built with Java 21 and Spring Boot. Features JWT-based RBAC, dynamic search engines with JPA Criteria API, and automated background Cron Jobs.
 * 🎮 **[PlayWish](https://github.com/Zairex-Code/PlayWish)**
   * An interactive platform for exploring, managing, and creating wishlists from extensive video game catalogs.
 * 💼 **[WEB FORUM CODE MASTER](https://github.com/Zairex-Code/Web-laravel-Tailwind-Node.js)**
   * Programming Forum project! This is a Q&A platform built with Laravel 12, Tailwind CSS v4, and Blade Components, enriched with Laravel Livewire & Volt for reactive interfaces.
 * 📚 **[PlexBook](https://github.com/Zairex-Code/PlexBook-Laravel-bootstrap)**
   * PlexBook, a robust Library Management System built with Laravel. This application streamlines library operations, allowing administrators to manage books, authors, categories, and loans efficiently.
-* 🚗 **[Maybach-Concessionary](https://github.com/Zairex-Code/Maybach-Concessionary.js)**
-  * Maybach Concessionary is a web management system developed entirely in Vanilla JavaScript and styled with Tailwind CSS.
 
 ---
 
