@@ -69,10 +69,10 @@ With over 3 years of experience building dynamic and scalable web applications. 
 
 #### 🚀 Featured Projects
 
-* 🏘️🌄🎨 **[Oasis Hospitality - Enterprise Frontend]([https://github.com/Zairex-Code/oasis-hotel-frontend](https://github.com/Zairex-Code/oasis-hotel-frontend))**
+* 🏘️🌄🎨 **[Oasis Hospitality - Enterprise Frontend](https://github.com/Zairex-Code/oasis-hotel-frontend)**
   * A highly scalable hotel management dashboard featuring a custom Glassmorphism UI, edge security, and a real-time booking engine.
   * **Stack:** Next.js, TypeScript, React 19, Tailwind CSS v4, Axios
-* 🏘️🌄⚙️ **[Oasis Hotels API - Enterprise Backend]([https://github.com/Zairex-Code/oasis-hotels-api](https://github.com/Zairex-Code/Oasis-Hotel-Backend))**
+* 🏘️🌄⚙️ **[Oasis Hotels API - Enterprise Backend](https://github.com/Zairex-Code/Oasis-Hotel-Backend)**
   * A robust RESTful API featuring JWT-based RBAC, dynamic search engines with JPA Criteria API, and automated background Cron Jobs.
   * **Stack:** Java 17, Spring Boot, MySQL, Spring Security, JWT, Docker
 * 🎮 **[PlayWish](https://github.com/Zairex-Code/PlayWish)**
